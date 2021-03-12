@@ -3,5 +3,5 @@
 
 # Commands
 
- + Stage
-  - `git add .`
+ + Stage  
+   `git add .`

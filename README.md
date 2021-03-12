@@ -5,3 +5,8 @@
 
  + Stage  
    `git add .`
+ + Status  
+   `git status`
+ + 
+
+ 

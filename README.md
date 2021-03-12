@@ -20,6 +20,6 @@
    `git reset <file>`
  + Reset
    - Reset staging area to the last commit without disturbing the working directory  
-   `git reset
+   `git reset`
 
  

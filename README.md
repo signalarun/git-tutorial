@@ -15,6 +15,11 @@
    `git log --oneline`
  + Checkout  
   `git checkout <commit number> readme.md`
-   
+ + Reset file
+   - Unstage a staged file, leaving working directly unchanged  
+   `git reset <file>`
+ + Reset
+   - Reset staging area to the last commit without disturbing the working directory  
+   `git reset
 
  

@@ -1,7 +1,7 @@
 # Git tutorial
 
 
-# Commands
+## Commands
 
  + Initialize Git repository  
    `git init` 

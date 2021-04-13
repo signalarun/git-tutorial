@@ -1,4 +1,4 @@
-# git-tutorial
+# Git tutorial
 
 
 # Commands

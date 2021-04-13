@@ -28,3 +28,9 @@
    - `git config --global user.email <your email address>` 
  + You can check your default Git global configuration, you can type the following at the prompt:
    - `git config --list`
+ + To set up your local repository to link to your online Git repository
+   - `git remote add origin <repository URL>`
+ + To push the commits to the online repository
+   - `git push -u origin master`
+ + To clone an online repository to your computer
+   - `git clone <repository URL>`
